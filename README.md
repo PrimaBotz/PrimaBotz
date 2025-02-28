@@ -1,4 +1,5 @@
-# KENALIN NAMA SAYA PRIMA , MASIH PEMULA DAN BELUM TAU APA APA , AKU MASIH BERPROSES NIH HEHE
+## 👋 Kenalin, Nama Saya Prima!
+Masih pemula di dunia ini dan sedang dalam proses belajar. Pasti masih banyak yang perlu dipelajari, tapi saya siap banget untuk berkembang! Hehe 😄
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kadekprima11) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Alyabotz) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@@Prima) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:primanandakadek@gmail.com) 
