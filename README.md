@@ -1,23 +1,68 @@
-## 👋 Kenalin, Nama Saya Prima!
-Masih pemula di dunia ini dan sedang dalam proses belajar. Pasti masih banyak yang perlu dipelajari, tapi saya siap banget untuk berkembang! Hehe 😄
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kadekprima11) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Alyabotz) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@@Prima) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:primanandakadek@gmail.com) 
-
-# 💻 Tech Stack:
-![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PrimaBotz&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PrimaBotz&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimaBotz&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PrimaBotz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PrimaBotz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- 🌌 GitHub Profile by Prima -->
+<h1 align="center">👋 Hi, I'm <span style="color:#00FFAA;">Prima</span>!</h1>
+<h3 align="center">🌱 Just starting out — eager to learn, grow, and create!</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PrimaBotz&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://instagram.com/Kadekprima11" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  </a>
+  <a href="https://tiktok.com/@Alyabotz" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" height="28"/>
+  </a>
+  <a href="https://mastodon.social/@Prima" target="_blank">
+    <img src="https://img.shields.io/badge/Mastodon-%232B90D9.svg?style=for-the-badge&logo=mastodon&logoColor=white" height="28"/>
+  </a>
+  <a href="mailto:primanandakadek@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,c,dart,github,linux,ps,html,css" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrimaBotz&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrimaBotz&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimaBotz&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrimaBotz&theme=dracula&margin-w=10&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 🔝 Top Contributions
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=PrimaBotz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=PrimaBotz&icon=5&color=9" alt="Visitor Count"/>
+</p>
+
+---
+
+> 💬 *“Every expert was once a beginner — stay curious and keep building.”*
+
+---
+
+<!-- Made with ❤️ using GPRM + custom touch by Prima -->
