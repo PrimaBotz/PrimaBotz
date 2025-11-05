@@ -54,11 +54,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PrimaBotz&icon=5&color=9" alt="Visitor Count"/>
-</p>
-
 ---
 
 > 💬 *“Every expert was once a beginner — stay curious and keep building.”*
