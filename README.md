@@ -7,7 +7,7 @@
 ### 🌐 Connect with me
 <p align="center">
   <a href="https://wa.me/6289519701024" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" alt="whatsapp"/>
+   <img src="https://img.shields.io/badge/Whatsapp-%23000000.svg?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"/>
   </a>
   <a href="https://tiktok.com/@Alyabotz" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" height="28"/>
